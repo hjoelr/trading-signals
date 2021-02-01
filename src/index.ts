@@ -5,6 +5,7 @@ export * from './DEMA/DEMA';
 export * from './DMA/DMA';
 export * from './EMA/EMA';
 export * from './error';
+export * from './LinearRegression/LinearRegression';
 export * from './MACD/MACD';
 export * from './ROC/ROC';
 export * from './RSI/RSI';
